@@ -2,7 +2,7 @@
 """
 Created on Tue Jul 18 14:22:15 2023
 
-@author: zndr2
+@author: senna
 """
 # import pandas as pd
 # import matplotlib.pyplot as plt
